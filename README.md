@@ -43,7 +43,6 @@ Your token is what you use to log the bot in.
 3. Once everything has installed run **run.bat** .
 4. Wait for everything to load and the bot should now be up and running.
 
-If you want the node_modules folder to be pre installed instead of running install.bat, go to the [Release page and download the latest zip file](https://github.com/Aaronidk/Dorito-bot-discord.js/releases) 
 ## Adding the bot to your server:
 1. Go back to the [Discord Developer Portal](https://discordapp.com/developers/applications/) and click on your application.
 2. Go to the **General Information** tab and you should see your client ID.
@@ -62,9 +61,9 @@ The bot can be ran on Linux and Windows.
 # Linux Install:
 1. Download nodejs
 2. Download the bot from the release page.
-3. Use the terminal to navigate to the bot folder location where the index is located (dorito.js or index.js)
+3. Use the terminal to navigate to the bot folder location where the index is located (wanwilonmain.js or index.js)
 4. Type npm install
-5. To start the bot make sure your terminal is still navigated to the bot folder then type " node . " or "node index.js " or " node dorito.js "
+5. To start the bot make sure your terminal is still navigated to the bot folder then type " node . " or "node index.js " or " node wanwilonmain.js "
 6. I recommend learning how the terminal works as well as entering directories using cd in the terminal.
 # Troubleshooting
 If the music commands do not work then it is because FFMPEG was not installed.
@@ -75,4 +74,4 @@ or you can try type this in the terminal for Linux " npm i ffmpeg "
 * Once in the osu.js file you should see text telling you where to paste your api key.
 * Now that you finished setting the API key save the the file and run the bot. The osu command should now work.
 * If you don't care about the osu command or you don't want to get an api key go into the "/commands/utility/" folder and delete the osu.js command. 
-> This Bot was made by [Aaronidk/aaronokiay]().
+>
