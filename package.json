@@ -1,5 +1,5 @@
 {
-  "name": "doritobot",
+  "name": "wanwilon",
   "version": "2.0.0",
   "description": "A multipurpose Discord bot with many NSFW and fun commands as well as utility, moderation SFW commands and more.",
   "main": "dorito.js",
@@ -32,10 +32,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aaronidk/Dorito-bot-discord.js.git"
-  },
   "keywords": [
     "doritos",
     "dorito",
@@ -63,10 +59,3 @@
     "gaming",
     "utility"
   ],
-  "author": "Aaronidk",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aaronidk/Dorito-bot-discord.js/issues"
-  },
-  "homepage": "https://github.com/Aaronidk/Dorito-bot-discord.js#readme"
-}
